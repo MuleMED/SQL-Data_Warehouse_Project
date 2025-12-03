@@ -1,7 +1,7 @@
 # Data Warehouse & Analytics Project
 
 Welcome to my **Data Warehouse & Analytics Project**
-This project is part of my journey toward becoming a **Data Engineer** and it showcases the core skills and tools used in modern data engineering — from building a data warehouse to creating analytical datasets and running insights.
+This project is part of my journey toward becoming a **Data Engineer**, and it showcases the core skills and tools used in modern data engineering — from building a data warehouse to creating analytical datasets and running insights.
 
 ---
 
@@ -10,10 +10,10 @@ This project is part of my journey toward becoming a **Data Engineer** and it sh
 I structured this project using the **Bronze → Silver → Gold** medallion architecture, which is widely used in the industry:
 
 1. **Bronze Layer** – Raw data exactly as received (CSV files loaded into SQL Server).
-2. **Silver Layer** – Cleaned, standardized and well-formatted datasets.
+2. **Silver Layer** – Cleaned, standardized, and well-formatted datasets.
 3. **Gold Layer** – Business-ready analytical tables modeled using star schema.
 
-This layered approach helps maintain data quality, traceability and flexibility.
+This layered approach helps maintain data quality, traceability, and flexibility.
 
 ---
 
@@ -27,7 +27,7 @@ Designing a scalable data warehouse using modern engineering standards.
 
 ### 🔹 2. ETL/ELT Pipelines
 
-Building extraction, transformation and loading processes using SQL.
+Building extraction, transformation, and loading processes using SQL.
 
 ### 🔹 3. Data Modeling
 
@@ -56,8 +56,8 @@ This project helps me develop strong skills in:
 
 Everything I used for this project is free and beginner‑friendly:
 
-* **MySQL Community Server** – For hosting the data warehouse.
-* **MySQL Workbench** – For database design, SQL development and management.
+* **SQL Server Express** – For hosting the data warehouse.
+* **ADS (Azure Data Studio)** – For database management.
 * **CSV Datasets** – Provided sample ERP & CRM data.
 * **DrawIO** – For data architecture & modeling diagrams.
 * **Git & GitHub** – For version control.
@@ -93,15 +93,16 @@ data-warehouse-project/
 ├── tests/             # Data quality checks
 │
 ├── README.md          # This documentation
-└── LICENSE
+├── LICENSE
+└── requirements.txt
 ```
 
 ---
 
 ## ✨ About Me
 
-Hi! I’m **Mule**, an aspiring **Data Engineer** building projects that sharpen my real-world skills in data warehousing, ETL pipelines, SQL development and analytics.
+Hi! I’m **Mule**, an aspiring **Data Engineer** building projects that sharpen my real-world skills in data warehousing, ETL pipelines, SQL development, and analytics.
 
-This project is part of my portfolio and just the beginning of many more data engineering projects I plan to build.
+This project is part of my portfolio — and just the beginning of many more data engineering projects I plan to build.
 
-Feel free to connect or check out more of my work as I grow in this field💡
+Feel free to connect or check out more of my work as I grow in this field!💡
